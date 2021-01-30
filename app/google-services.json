@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781850231408",
+    "project_id": "videostream-ad46d",
+    "storage_bucket": "videostream-ad46d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781850231408:android:3e75f33b363f6c94abeab5",
+        "android_client_info": {
+          "package_name": "com.example.videostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781850231408-acua27gpatr0f11nsl0la42cnbtcqns3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videostream",
+            "certificate_hash": "f9a5a0a70643b3a0b108abe4fa73b0a100266632"
+          }
+        },
+        {
+          "client_id": "781850231408-ghu3cqal35tpcq0prk8sim3eth2dt7vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5g_XM_lYUYNFj9yGRKJZ1ff_-iVyQpY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781850231408-ghu3cqal35tpcq0prk8sim3eth2dt7vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
